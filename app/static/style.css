@@ -1,0 +1,9 @@
+/* Custom styles for the Flask ToDo app */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-group-item-success {
+    background-color: #d4edda !important;
+    border-color: #c3e6cb;
+}

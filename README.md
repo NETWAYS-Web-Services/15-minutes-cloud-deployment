@@ -1,0 +1,1 @@
+This repository contains the code and resources needed to follow along with the tutorial [Cloud Deployment in 15 minutes](https://nws.netways.de/en/blog/2026/01/28/cloud-deployment-in-15-minutes-with-terraform-and-docker/) on the [NETWAYS Web Services blog](https://nws.netways.de/en/blog).

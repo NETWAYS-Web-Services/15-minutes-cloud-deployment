@@ -1,0 +1,10 @@
+# Terraform artifacts
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+
+# autovars
+*.auto.tfvars
+
+# Python venv
+venv/
